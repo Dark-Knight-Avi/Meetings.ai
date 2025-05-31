@@ -12,7 +12,7 @@
     "db:reset": "drizzle-kit reset",
     "db:studio": "drizzle-kit studio",
     "db:migrate": "drizzle-kit migrate",
-    "db:migrate:latest": "drizzle-kit migrate --latest",
+    "db:migrate:latest": "drizzle-kit migrate --latest"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.0.1",
