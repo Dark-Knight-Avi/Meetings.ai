@@ -118,3 +118,8 @@
     @apply bg-background text-foreground;
   }
 }
+
+.gradient-1 {
+  background: #35A29F;
+  background: radial-gradient(circle, rgba(7, 25, 82, 1) 0%, rgba(53, 162, 159, 1) 80%);
+}
